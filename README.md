@@ -8,7 +8,7 @@
     <img src="https://logospng.org/download/react/logo-react-1024.png" style="width: 100px" />
 </div>
 <div>
-    <img src="https://logospng.org/download/react/logo-react-1024.png" style="width: 100px" />
+    <img src="https://raw.githubusercontent.com/gilliard-fullstack/reactjs-sass-gallery/main/printscreen.jpg" style="width: 100px" />
 </div>
 
 ## Live Preview
